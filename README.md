@@ -2,7 +2,8 @@
 
 Personalised "the day you were born" newspapers sold through Shopify. A customer enters a date of birth, name, message and photo, sees a vintage front page filled with that year's news, songs, prices and famous birthdays, and adds it to the cart. Each order produces a print-ready A3 PDF, rendered in the background.
 
-![Editor with a created newspaper](docs/screenshots/editor-created.jpg)
+![Editor with a created newspaper](https://mujtabaasif.vercel.app/assets/projects-screenshots/birthday-times/landing.webp)
+)
 
 A full illustrated walkthrough of the project is in [docs/Birthday-Herald-Project-Documentation.pdf](docs/Birthday-Herald-Project-Documentation.pdf).
 
