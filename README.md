@@ -1,11 +1,12 @@
 # Birthday Herald
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge)
+
 Personalised "the day you were born" newspapers sold through Shopify. A customer enters a date of birth, name, message and photo, sees a vintage front page filled with that year's news, songs, prices and famous birthdays, and adds it to the cart. Each order produces a print-ready A3 PDF, rendered in the background.
 
-![Editor with a created newspaper](https://mujtabaasif.vercel.app/assets/projects-screenshots/birthday-times/landing.webp)
-)
+![Landing page](https://mujtabaasif.vercel.app/assets/projects-screenshots/birthday-times/landing.webp)
 
-A full illustrated walkthrough of the project is in [docs/Birthday-Herald-Project-Documentation.pdf](docs/Birthday-Herald-Project-Documentation.pdf).
+**Live site:** https://www.thebirthdaytimes.com.au/ · **Portfolio:** https://mujtabawd.vercel.app/
 
 ## Tech stack
 
